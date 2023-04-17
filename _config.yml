@@ -13,7 +13,7 @@ name                     : &name "张俊伟"
 description              : &description "上海大学研究生在读"
 url                      : https://stuartgeiger.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "staeiou/staeiou.github.io"
+repository               : "https://zjwhaoyun.github.io/zjw.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 seo_description          : "Site for Richard Stuart Geiger, Professor of Communication and Data Science at UC San Diego"
