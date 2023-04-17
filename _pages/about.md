@@ -8,7 +8,7 @@ redirect_from:
   - "/wordpress/index.html"
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 　嗨，大家好，欢迎访问我的个人主页。本人本科就读于郑州航空工业管理学院，研究生就读于上海大学。
 
 
