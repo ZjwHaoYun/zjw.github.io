@@ -16,7 +16,7 @@ redirect_from:
 
 郑州航空工业管理学院（Zhengzhou University of Aeronautics）[学校主页](http://zua.edu.cn/)，位于河南省郑州市，是河南省人民政府与中国民用航空局共建的全日制普通本科院校，入选国家中西部高校基础能力建设工程。
 学校始建于1949年，原名华北财经学校；后几经更名、数易其址，1964年与郑州航空工业技工学校合并更名为郑州航空工业学校；1978年升格为郑州航空工业管理专科学校；1984年升格本科，更名为郑州航空工业管理学院；1999年学校由中国航空工业总公司主管转变为中央与地方共建，以河南省为主的办学体制；2013年成为硕士学位授予单位。
-截至2022年6月，学校占地1700余亩，建筑面积109万平方米，实验场所面积10.6万平方米；固定资产总值17.39亿多元，教学科研仪器设备总值3.26亿元，图书馆藏书255.67万册，电子图书58.03万册；下设16个教学院（部），1个书院，1个中外合作办学机构南乌拉尔学院，1个继续教育学院；开办62个本科专业；拥有7个一级学科硕士学位授权点、15个专业硕士学位授权类别；有教职工2083人，全日制本专科生、研究生、留学生31092人。
+
 
 <!-- I received my Ph.D from the [UC-Berkeley School of Information](http://ischool.berkeley.edu), my M.A. from the [Communication, Culture, and Technology program](http://cct.georgetown.edu) at Georgetown University, and my B.A. in [the Humanities program](https://liberalarts.utexas.edu/humanities/) at the University of Texas at Austin. For just under five years after receiving my Ph.D, I was at the [Berkeley Institute for Data Science](https://bids.berkeley.edu) as a staff ethnographer. At BIDS, I was first a postdoctoral scholar, then became a principal investigator and led several research and education efforts, including the institute’s Data Science Studies efforts and the [Best Practices in Data Science](https://osf.io/ctfqn/) series.
  -->
